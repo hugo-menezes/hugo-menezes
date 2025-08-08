@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Hugo Menezes 👋
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (UNICID)** e **Análise de Dados (EBAC)**, buscando integrar programação e dados para criar soluções inteligentes.  
 Apaixonado por tecnologia, aprendizado contínuo e pelo uso responsável da inovação para promover inclusão e sustentabilidade.
